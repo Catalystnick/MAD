@@ -32,15 +32,29 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        button = (Button) findViewById(R.id.empid);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openEmployeeList();
+            }
+        });
+
 
     }
 
-    public void openCarRentalActivity(){
+    public void openCarRentalActivity() {
         Intent intent = new Intent(this, CarRentalActivity.class);
         startActivity(intent);
     }
-    public void openUserAccount(){
+
+    public void openUserAccount() {
         Intent intent = new Intent(this, userAccount.class);
+        startActivity(intent);
+    }
+
+    public void openEmployeeList() {
+        Intent intent = new Intent(this, Employee_List.class);
         startActivity(intent);
     }
 }
