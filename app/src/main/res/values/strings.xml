@@ -45,7 +45,7 @@
     <string name="edit_post"></string>
     <string name="edit_id"></string>
 
-    <string name="save_emp">Save Changes</string>
+    <string name="save_emp1">Save Changes</string>
 
     <string name="delete_emp">Delete Profile</string>
 
@@ -128,4 +128,5 @@
     <string name="view3">view3</string>
     <string name="john_doe4">john_doe4</string>
     <string name="view4">view4</string>
+
 </resources>
