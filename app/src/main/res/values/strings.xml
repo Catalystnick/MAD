@@ -43,7 +43,23 @@
     <string name="add_email">Email</string>
     <string name="add_phone">Phone Number</string>
     <string name="add_post">Occupation</string>
-    <string name="add_docs">Add new Documents</string>
+    <string name="add_scans">Scans of Documents</string>
+    <string name="add_emp">Add new Employee</string>
+
+
+    <string name="Add_Employee">Add Employee</string>
+    <string name="Employees">Employee</string>
+    <string name="Sean_White">Sean White</string>
+    <string name="Stewie_Kay">Stewie Kay</string>
+    <string name="mike_keizer">Mike Keizer</string>
+    <string name="Frank_Sinatra">Frank Sinatra</string>
+    <string name="eview1">View</string>
+    <string name="eview2">View</string>
+    <string name="eview3">View</string>
+    <string name="eview4">View</string>
+
+
+
 
 
     <string-array name="Locations">
